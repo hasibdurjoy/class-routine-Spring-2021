@@ -1,5 +1,5 @@
 html{
-    background-color: dimgrey;
+    background-color: darkkhaki;
 }
 
 body{
@@ -16,7 +16,10 @@ body{
     padding-top: 0px;
     padding-bottom: 0;
     padding: 0;
-    
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
 }
 .p2{
     background-color: aquamarine;
@@ -24,7 +27,8 @@ body{
     text-align: center;
     float: left;
     width : 50%;
-    height: 300px;
+    height: 350px;
+    border-radius: 10px;
 }
 .p3{
     background-color : cornflowerblue;
@@ -32,55 +36,62 @@ body{
     text-align: center;
     float: left;
     width: 50%;
-    height: 300px;
+    height: 350px;
+    border-radius: 10px;
 }
 .table11{
     margin: left;
     letter-spacing: inherit;
     border-spacing: 1;
-    color: black;
+    color: navajowhite;
     padding-left: 1px;
     align-items: center;
     font-family: serif;
-    font-weight: 1000;
     padding: 0;
     margin: 0px;
 }
 
 .t1{
-    border: 5px solid green;
-    padding: 1px;
+    border: 15px solid aqua;
+    padding: 0px;
     font-size: 30;
-    text-align: center; 
+    text-align: center;
+    width: 100%;
+    
 }
 
 .th1{
-    background-color: green;
+    background-color: #020F80 ;
 }
 .tr1{
-    background-color: navajowhite;
+    background-color: #D9D207;
+    color: black;
 }
 .tr2{
-    background-color: yellowgreen;
+   background-color: #D9D207;
+    color: black;
 }
 .tr3{
-    background-color: cyan;
+    background-color: #D9D207;
+    color: black;
 }
 .tr4{
-    background-color: blue;
-    color: aliceblue;
+    background-color: #D9D207;
+    color: black;
 }
 .tr5{
-   background-color: brown;
+   background-color: #D9D207;
+    color: black;
 }
 .tr6{
-    background-color: darkcyan;
+    background-color: #D9D207;
+    color: black;
 }
 .td1{
-    background-color: dimgrey;
+    background-color: black;
 }
 .day{
-    background-color: green;
+    background-color: #020F80 ;
 }
 .para2{
     text-align: center;
