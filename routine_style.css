@@ -1,5 +1,5 @@
 html{
-    background-color: darkkhaki;
+    background-color: black;
 }
 
 body{
@@ -66,26 +66,32 @@ body{
 .tr1{
     background-color: #D9D207;
     color: black;
+    border: 4px solid red;
 }
 .tr2{
    background-color: #D9D207;
     color: black;
+    border: 4px solid red;
 }
 .tr3{
     background-color: #D9D207;
     color: black;
+    border: 4px solid red;
 }
 .tr4{
     background-color: #D9D207;
     color: black;
+    border: 4px solid red;
 }
 .tr5{
    background-color: #D9D207;
     color: black;
+    border: 4px solid red;
 }
 .tr6{
     background-color: #D9D207;
     color: black;
+    border: 4px solid red;
 }
 .td1{
     background-color: black;
